@@ -61,8 +61,9 @@
 </table>
 
 ## 1. ✔개발 환경
-- Front : HTML/CSS, javaScript, Bootstrap, Thymeleaf
-- Back : java/javaScript
+- Front : HTML/CSS, Bootstrap, Thymeleaf
+- Back : java/javaScript, Springboot
+- 보안 : Springsecurity
 - 버전 및 이슈 관리 : Github
 - 협업 툴 : Notion
 - 서비스 배포 환경 : jar
