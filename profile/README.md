@@ -179,8 +179,27 @@
 
 ![6](https://github.com/semi-project-team/PSMC/assets/158137025/5b87fa34-8d14-488e-9a77-94a065bfa0b3)
 
+### 4. Mainpage
 
-- mypage : 가입한 회원의 정보를 조회 및 수정
+![12](https://github.com/semi-project-team/.github/assets/158137025/f09618d9-7325-4e5c-9a4e-580536ed91e4)
+
+### 5. Mypage
+
+![15](https://github.com/semi-project-team/.github/assets/158137025/2f03d9f3-2448-40e1-bf36-349a996567e8)
+
+### 6. Scheduler
+
+![13](https://github.com/semi-project-team/.github/assets/158137025/10de019a-3849-4109-8b42-13434ea3f43b)
+
+### 7. MediConnect
+
+![14](https://github.com/semi-project-team/.github/assets/158137025/6effaf04-43a0-4d19-8803-07345dc805da)
+
+### 8. TheraLink
+
+
+
+
 - main page : 회원의 정보, 오늘의 식단표, 오늘의 스케쥴, mediconnect 과 theralink 의 최신 채팅 내용을 보여줍니다
   - 의료진의 경우 : 새로운 환자를 등록하여 새로운 프로젝트를 생성합니다, 또한 자신의 환자에 대해서 진료 예약을 할 수 있습니다
   - 재활 치료진의 경우 : 새로 부여받은 환자를 확인하고 재활 치료 시간을 예약할 수 있습니다
