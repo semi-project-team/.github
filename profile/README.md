@@ -24,7 +24,7 @@
   <tr>
     <td>
       <a href="https://github.com/comaserious">
-        <img src="https://avatars.githubusercontent.com/u/123?v=4" width="100" style="max-width: 100%;">
+        <img src="https://avatars.githubusercontent.com/u/158137025?v=4" width="100" style="max-width: 100%;">
       </a>
     </td>
     <td>
