@@ -25,7 +25,7 @@
     </td>
     <td>
       <a href="https://github.com/wjdals83">
-          <img src="https://avatars.githubusercontent.com/u/138289674?v=4" width="100" style="max-width: 100%;">
+          <img src="https://avatars.githubusercontent.com/u/107474713?v=4" width="100" style="max-width: 100%;">
       </a>
     </td>
     <td>
