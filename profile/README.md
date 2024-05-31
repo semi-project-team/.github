@@ -5,12 +5,17 @@
 
 ## 프로젝트 배경
 
-![스크린샷 2024-05-31 112315](https://github.com/semi-project-team/.github/assets/158137025/c75e9600-6168-43ff-b503-c4a00386cae7)
+이 프로젝트는 주변 지인들의 재활 치료 및 스포츠 선수 관리에 대한 고충을 나누면서 제기된 문제들을 바탕으로 시작되었습니다.
+<br>선수의 수술 및 재활 치료에 대한 소통이 주로 의사 사이에서만 이루어져 재활트레이너에게는 정보가 충분히 전달되지 못한다는 고충이 있다고 합니다.
+<br>이를 해소하고자 의사와 트레이너 간 원할한 소통의 창구 역할을 할 수 있는 그룹웨어를 기획하게 되었습니다. 
+
     
 ## 🗣프로젝트 소개
-
-![스크린샷 2024-05-31 112522](https://github.com/semi-project-team/.github/assets/158137025/a166fe76-c090-4979-90c3-de09af58595f)
-
+- 환자 치료의 효율성을 높이고, 의료진 간의 원활한 소통을 위한 통합 그룹웨어 솔루션
+- 의료진이 환자를 등록하고 관련 부상에 관련 있는 치료사를 할당
+- 재활 치료사와 의료진 모두 스케쥴을 만드는데 있어 시간이 겹치지 않게 서버측에서 진료예약과 재활 치료 시간을 예약
+- 재활과정과 치료 일정에 관해 재활 치료사와 의료진이 각각 TheraLink 와 MediConnect 공간에 작성
+- 자신의 치료 및 진료하고 있는 환자를 자동으로 보여줌으로써 의사소통을 원할하게 할 수 있도록 함
 
 
 ## 팀 구성원 및 역할
@@ -61,9 +66,8 @@
 </table>
 
 ## 1. ✔개발 환경
-- Front : HTML/CSS, Bootstrap, Thymeleaf
-- Back : java/javaScript, Springboot
-- 보안 : Springsecurity
+- Front : HTML/CSS, javaScript, Bootstrap, Thymeleaf
+- Back : java/javaScript
 - 버전 및 이슈 관리 : Github
 - 협업 툴 : Notion
 - 서비스 배포 환경 : jar
@@ -160,7 +164,26 @@
 
 
 ## 기능 설명
-- 첫 페이지 : 로그인, 회원가입, id 찾기, 비밀번호 찾기
+
+### 1. 첫페이지
+
+![1](https://github.com/semi-project-team/PSMC/assets/158137025/17b1888e-8225-40f8-96ae-afe6f1f3e492)
+
+### 2. 회원 가입
+
+![2](https://github.com/semi-project-team/PSMC/assets/158137025/66003d3e-d026-4e6c-998e-34ad6eeb4751)
+
+![3](https://github.com/semi-project-team/PSMC/assets/158137025/193a7574-8f98-45bd-b347-74298fa2fe8c)
+
+![4](https://github.com/semi-project-team/PSMC/assets/158137025/c16b8ea0-8585-49be-ae6b-3ffb0db18459)
+
+### 3. 아이디 찾기 및 비밀번호 찾기
+
+![11](https://github.com/semi-project-team/PSMC/assets/158137025/5dad0898-c879-4e98-b5e1-fe1d31c1315d)
+
+![6](https://github.com/semi-project-team/PSMC/assets/158137025/5b87fa34-8d14-488e-9a77-94a065bfa0b3)
+
+
 - mypage : 가입한 회원의 정보를 조회 및 수정
 - main page : 회원의 정보, 오늘의 식단표, 오늘의 스케쥴, mediconnect 과 theralink 의 최신 채팅 내용을 보여줍니다
   - 의료진의 경우 : 새로운 환자를 등록하여 새로운 프로젝트를 생성합니다, 또한 자신의 환자에 대해서 진료 예약을 할 수 있습니다
