@@ -71,10 +71,24 @@
 ## 2. 브랜치 전략
  기능 별로 이름을 정하여 브랜치를 생성했습니다
 
-- CSS : 뷰포트의 이미지를 생성하는 기능
-- feature : CRUD 등 backend 관련 기능
-- DB : db 업데이트
-- bug : 기능에 오류 수정
+<table>
+    <tr>
+        <th>🎨Html&css</th>
+        <td>뷰포트의 이미지를 생성하는 기능</td>
+    </tr>
+    <tr>
+        <th>✨Feature</th>
+        <td>CRUD 등 backend 관련 기능</td>
+    </tr>
+    <tr>
+        <th>:page_with_curl: DB</th>
+        <td>DB 업데이트</td>
+    </tr>
+    <tr>
+        <th>🐞Bug</th>
+        <td>기능에 오류 수정</td>
+    </tr>
+</table>
 
 브랜치 별로 커밋을 한 후 충돌이 발생하지 않거나 충돌을 해결한 후 master 브랜치에 merge 하는 방식을 채택했습니다
 
