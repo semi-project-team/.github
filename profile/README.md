@@ -148,28 +148,7 @@
 </table>
 
 ## 작업관리
-1. [discussion 을 통해 팀 전체적으로 오늘 할 일을 정합니다](https://github.com/semi-project-team/PSMC/discussions?discussions_q=is%3Aopen+sort%3Adate_created)
-2. [disscussion 을 통해 할당 받은 오늘의 과업에 대해 issue를 작성합니다](https://github.com/semi-project-team/PSMC/issues)
-3. [기능을 완수하면 각각의 기능에 맞게 브랜치를 생성후 충돌을 모두 해결한 후 master 브랜치에 merge ](https://github.com/semi-project-team/PSMC/pulls?q=is%3Apr+is%3Aclosed)
-
-## ERD
-
-![asdadfasdfdsaf](https://github.com/semi-project-team/PSMC/assets/158137025/622cefcb-b247-41fd-8d21-5261461ce243)
-
-
-## 기능 설명
-
-### 1. 첫페이지
-
-![1](https://github.com/semi-project-team/PSMC/assets/158137025/17b1888e-8225-40f8-96ae-afe6f1f3e492)
-
-### 2. 회원 가입
-
-![2](https://github.com/semi-project-team/PSMC/assets/158137025/66003d3e-d026-4e6c-998e-34ad6eeb4751)
-
-![3](https://github.com/semi-project-team/PSMC/assets/158137025/193a7574-8f98-45bd-b347-74298fa2fe8c)
-
-![4](https://github.com/semi-project-team/PSMC/assets/158137025/c16b8ea0-8585-49be-ae6b-3ffb0db18459)
+1. [discussion 을 통해 팀 전체적으로 오늘 할 일을 다
 
 ### 3. 아이디 찾기 및 비밀번호 찾기
 
