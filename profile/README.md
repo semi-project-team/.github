@@ -172,14 +172,17 @@
 
 ![2](https://github.com/semi-project-team/PSMC/assets/158137025/66003d3e-d026-4e6c-998e-34ad6eeb4751)
 
+- 약관에 모두 동의 해야지만 다음 단계로 넘어 갈 수 있습니다
+
 ![3](https://github.com/semi-project-team/PSMC/assets/158137025/193a7574-8f98-45bd-b347-74298fa2fe8c)
+
+- 사원번호와 의료진 코드가 모두 일치 해야지만 다음 단계로 넘어 갈 수 있습니다
 
 ![4](https://github.com/semi-project-team/PSMC/assets/158137025/c16b8ea0-8585-49be-ae6b-3ffb0db18459)
 
-
-- 약관에 모두 동의 해야지만 다음 단계로 넘어 갈 수 있습니다
-- 사원번호와 의료진 코드가 모두 일치 해야지만 다음 단계로 넘어 갈 수 있습니다
 - 회원 가입 요구 사항을 모두 충족 해야지만 회원가입이 됩니다
+
+
 
 ### 3. 아이디 찾기 및 비밀번호 찾기
 
