@@ -280,3 +280,4 @@
 - [페이징 처리](https://github.com/semi-project-team/PSMC/wiki/Paging-%EC%B2%98%EB%A6%AC)
 - [비밀번호찾기를 통한 이메일 전송](https://github.com/semi-project-team/PSMC/wiki/%EB%B9%84%EB%B0%80-%EB%B2%88%ED%98%B8-%EC%B0%BE%EA%B8%B0-%EA%B8%B0%EB%8A%A5)
 - [이미지 저장](https://github.com/semi-project-team/PSMC/wiki/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+- [오늘의 메뉴](https://github.com/semi-project-team/PSMC/wiki/%EC%98%A4%EB%8A%98%EC%9D%98-%EB%A9%94%EB%89%B4)
