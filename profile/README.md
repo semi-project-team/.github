@@ -188,7 +188,11 @@
 
 ![11](https://github.com/semi-project-team/PSMC/assets/158137025/5dad0898-c879-4e98-b5e1-fe1d31c1315d)
 
+- 요구사항을 모두 만족 했을때 회원 데이터가 존재한다면 아이디를 반환합니다
+
 ![6](https://github.com/semi-project-team/PSMC/assets/158137025/5b87fa34-8d14-488e-9a77-94a065bfa0b3)
+
+- 입력한 값이 DB에 저장된 회원 정보가 일치 한다면 작성한 email로 새로운 비밀번호를 전송 합니다
 
 ### 4. Mainpage
 
