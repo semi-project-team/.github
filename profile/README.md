@@ -78,7 +78,7 @@
     </tr>
     <tr>
         <th>협업 툴</th>
-        <td>Notion</td>
+        <td>Notion, Miro, Figma</td>
     </tr>
     <tr>
         <th>서비스 배포 환경</th>
