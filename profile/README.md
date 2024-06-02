@@ -114,7 +114,7 @@
     </tr>
     <tr>
         <th>서정민</th>
-        <td>mediconnect, DB 작성, ppt 제작, github 형상 관리</td>
+        <td>mediconnect, DB 작성, ppt 제작, github 형상 관리, 노션 작성</td>
     </tr>
     <tr>
         <th>조승윤</th>
@@ -122,7 +122,7 @@
     </tr>
     <tr>
         <th>김재중</th>
-        <td>staff, DB 작성, 오류 테스트</td>
+        <td>staff, DB 작성, 오류 테스트, 노션 작성</td>
     </tr>
 </table>
     
