@@ -155,6 +155,8 @@
 2. [disscussion 을 통해 할당 받은 오늘의 과업에 대해 issue를 작성합니다](https://github.com/semi-project-team/PSMC/issues)
 3. [기능을 완수하면 각각의 기능에 맞게 브랜치를 생성후 충돌을 모두 해결한 후 master 브랜치에 merge ](https://github.com/semi-project-team/PSMC/pulls?q=is%3Apr+is%3Aclosed)
 
+   
+
 ## ERD
 
 ![asdadfasdfdsaf](https://github.com/semi-project-team/PSMC/assets/158137025/622cefcb-b247-41fd-8d21-5261461ce243)
@@ -173,6 +175,11 @@
 ![3](https://github.com/semi-project-team/PSMC/assets/158137025/193a7574-8f98-45bd-b347-74298fa2fe8c)
 
 ![4](https://github.com/semi-project-team/PSMC/assets/158137025/c16b8ea0-8585-49be-ae6b-3ffb0db18459)
+
+
+- 약관에 모두 동의 해야지만 다음 단계로 넘어 갈 수 있습니다
+- 사원번호와 의료진 코드가 모두 일치 해야지만 다음 단계로 넘어 갈 수 있습니다
+- 회원 가입 요구 사항을 모두 충족 해야지만 회원가입이 됩니다
 
 ### 3. 아이디 찾기 및 비밀번호 찾기
 
