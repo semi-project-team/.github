@@ -101,32 +101,30 @@
 충돌을 방지하기 위해서 기능 별로 역할을 분담하고 기능별로 패키지를 구성하였습니다
 ## 역할 분담
 
-이호준
-- 기능
-  - 로그인, 아이디찾기, 비밀번호 찾기, 회원가입 약관, 회원가입 등록, 비밀번호 수정, mainpage 환자 등록, 스케쥴 작성, 식단표 작성, 스케쥴러 예약기능, theralink 블로그 생성 및 채팅 시스템
-- DB
-  - DB 테이블 생성
+<table>
+    <tr>
+        <th>이름</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>이호준</th>
+        <td>첫화면, 회원가입, 비밀번호 수정, main page 환자 등록, 예약하기, scheduler, theralink, DB 작성</td>
+    </tr>
+    <tr>
+        <th>서정민</th>
+        <td>mediconnect, DB 작성, ppt 제작, github 형상 관리</td>
+    </tr>
+    <tr>
+        <th>조승윤</th>
+        <td>mainpage css, mypage css 및 회원정보 수정, header 컴포넌트, navigation 컴포넌트, ppt 제작</td>
+    </tr>
+    <tr>
+        <th>김재중</th>
+        <td>staff, DB 작성, 오류 테스트</td>
+    </tr>
+</table>
+    
 
-서정민
-- UI
-  - 페이지 : MediConnect
-- 기능
-   - MediConnect 생성하기 및 채팅 시스템, mainpage 의 MediConnect 최근 업데이트 정보
-- DB
-  - DB 테이블 생성
-
-조승윤
-- UI
-  - 페이지 : 메인 페이지, mypage
-- 기능
-  - mypage 자신의 정보 수정
-
-김재중
-- UI
-  - 페이지 : Staff
-- 기능
-    - staff 전공분야 또는 이름으로 의료진 또는 치료진 정보
-- 오류 테스트
 
 ## 📅프로젝트 기간
 
