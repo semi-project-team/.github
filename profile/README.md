@@ -62,11 +62,29 @@
 </table>
 
 ## 1. ✔개발 환경
-- Front : HTML/CSS, javaScript, Bootstrap, Thymeleaf
-- Back : java/javaScript
-- 버전 및 이슈 관리 : Github
-- 협업 툴 : Notion
-- 서비스 배포 환경 : jar
+
+<table>
+    <tr>
+        <th>Front</th>
+        <td>HTML/CSS, Bootstrap, Thymeleaf</td>
+    </tr>
+    <tr>
+        <th>Back</th>
+        <td>java/javaScript</td>
+    </tr>
+    <tr>
+        <th>버전 및 이슈 관리</th>
+        <td>Github</td>
+    </tr>
+    <tr>
+        <th>협업 툴</th>
+        <td>Notion</td>
+    </tr>
+    <tr>
+        <th>서비스 배포 환경</th>
+        <td>jar</td>
+    </tr>
+</table>
 
 ## 2. 브랜치 전략
  기능 별로 이름을 정하여 브랜치를 생성했습니다
